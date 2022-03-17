@@ -1,5 +1,4 @@
-const Heading=({text})=>{
+const return=({text})=>{
     return <><h1>Welcome to my discord server</h1><p>Nice admin and staff</p></> 
-    
     }
-export default Heading;
+export default return;
